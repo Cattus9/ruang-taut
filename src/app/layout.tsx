@@ -14,7 +14,7 @@ const editorial = STIX_Two_Text({
 
 export const metadata: Metadata = {
   title: { default: "Ruang Taut — Referensi untuk build", template: "%s | Ruang Taut" },
-  description: "Katalog tools AI, komponen UI, dokumentasi, dan referensi desain untuk development dan vibecoding. Cari berdasarkan topik dan kategori.",
+  description: "Collection tools AI, komponen UI, dokumentasi, dan referensi desain untuk development dan vibecoding. Cari berdasarkan topik dan kategori.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
